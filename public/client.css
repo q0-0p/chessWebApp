@@ -1,0 +1,18 @@
+﻿td {
+    width: 65px;
+    height: 65px;
+    text-align:center;
+}
+table {
+    width: 520px;
+    
+}
+
+td.brown {
+    background:brown;
+    
+}
+
+td.white {
+    background: white;
+}
